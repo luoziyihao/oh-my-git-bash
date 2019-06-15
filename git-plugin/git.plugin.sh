@@ -95,3 +95,6 @@ alias gst='git status'
 # add 20190427
 alias gaa="git add -A"
 alias fcps='git add -A && git commit -m "tmp push" && git push origin "$(git_current_branch)"'
+
+# add 20190615
+alias gcmsg="git commit -m "
